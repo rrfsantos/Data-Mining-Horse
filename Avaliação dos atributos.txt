@@ -1,0 +1,21 @@
+Hospital Number - pode ser excluído, visto que só tem a informação do número do atendimento no hospital, não traz informação relevante sobre o cavalo
+
+
+12: peristalsis
+- an indication of the activity in the horse's gut. As the gut becomes more distended or the horse
+becomes more toxic, the activity decreases
+- possible values:
+1 = hypermotile
+2 = normal
+3 = hypomotile
+4 = absent
+XXXXXXXXX
+13: abdominal distension - Fazer matriz de correlacionamento
+- An IMPORTANT parameter.
+- possible values
+1 = none
+2 = slight
+3 = moderate
+4 = severe
+- an animal with abdominal distension is likely to be painful and have reduced gut motility.
+- a horse with severe abdominal distension is likely to require surgery just tio relieve the pressure
